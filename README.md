@@ -1,0 +1,2 @@
+# jst-share
+share
